@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bakybaev_v_13</string>
+    <string name="name_app">New aromat</string>
+    <string name="zagolovok_screen1">Выбери свой аромат</string>
+    <string name="mini_zagolovok_screen1">Выбери одну категорию</string>
+    <string name="category1">Женский</string>
+    <string name="category2">Мужской</string>
+    <string name="category3">Унисекс</string>
+    <string name="category4">Пробники</string>
+    <string name="button_text_screen1">Показать результат</string>
+    <string name="phone">8-954-852-00-00</string>
+    <string name="zagolovok_screen2">Ваш аромат</string>
+    <string name="name_product">Acqua Di Gio от Giorgio Armani</string>
+    <string name="cost">16 000 рублей</string>
+    <string name="opisanie">Сердечные нотки содержат пряный мускат,</string>
+    <string name="poluchenie">Доставка</string>
+    <string name="type1_pol">Курьер</string>
+    <string name="type2_pol">Самовывоз</string>
+    <string name="messeage">Заполните данные, мы с вами свяжемся</string>
+    <string name="name_enter">Введите свое имя</string>
+    <string name="phone_enter">Введите свой номер телефона</string>
+    <string name="button_text1_screen2">Заказать</string>
+    <string name="button_text2_screen2">Позвонить</string>
+    <string name="error_load">error</string>
+    <string name="text_null"></string>
+</resources>
